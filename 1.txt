@@ -1,4 +1,7 @@
 Hi This is my first commit
+<<<<<<< HEAD
 Hi This is my 2nd commit
 Hi this is my 3rd commit
+=======
+>>>>>>> parent of 86228fb (my 2nd commit)
 
